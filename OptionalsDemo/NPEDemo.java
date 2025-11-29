@@ -1,4 +1,4 @@
-package optionals;
+package OptionalsDemo;
 
 public class NPEDemo {
   public static void main(String[] args) {
